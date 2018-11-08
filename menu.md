@@ -1,6 +1,6 @@
 1144708
-margherita.md
-capricciosa.md
+pizza/margherita.md
+pizza/capricciosa.md
 
 
 pizzeria Bella Napoli
