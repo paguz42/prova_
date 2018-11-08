@@ -2,6 +2,6 @@
 pizza/margherita.md
 pizza/capricciosa.md
 primi/bucatini_matriciana.md
-primi/
+primi/spaghetti_carbonara.md
 
 pizzeria Bella Napoli
